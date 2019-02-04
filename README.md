@@ -1,0 +1,1 @@
+# document-scanner-ionic-4-angular-7
